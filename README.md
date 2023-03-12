@@ -7,4 +7,7 @@ Boiler plate for spinning up quick react-native projects with the new ARCH enabl
 - clone the repo into local dir 
 - cd into repo 
 - run yarn
+- cd into the `/ios` folder 
+- run pod install
+- cd back into the project root 
 - run yarn ios
